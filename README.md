@@ -14,15 +14,15 @@ This repository contains a collection of simple Python projects designed for beg
    ```
 
 2. Navigate to the project directory:
-	```cd repository-name```
+	```bash
+	cd repository-name
+	```
 
 3. Run any of the Python files using:
-	```python filename.py```
+	```bash
+	python filename.py
+	```
 	
 
-### Notes:
-- Replace `yourusername` and `repository-name` with your actual GitHub username and the name of your repository.
-- You can add or modify sections as needed, such as adding a license or contribution guidelines.
-- Make sure to create the corresponding Python files in your repository for each project listed.
-
-Let me know if you need any more modifications or additional sections!
+### Let's Connect
+- Python Learn Whatsapp Channel [WhatsApp Channel - codewithpython](https://whatsapp.com/channel/0029Vb5urw8K0IBbTQ8NH53b)  
