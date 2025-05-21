@@ -28,5 +28,4 @@ https://github.com/chandrakantapanda/Python-Projects-for-Beginners/blob/main/ran
 ### Let's Connect
 - Stay Connected and Learn Python!
 Join our Code with Python WhatsApp channel to connect with fellow learners, get real-time coding tips, and stay updated on the latest Python news.
-Feel free to join and be a part of our growing community! [WhatsApp Channel - codewithpython](https://whatsapp.com/channel/0029Vb5urw8K0IBbTQ8NH53b)
-![WhatsApp Icon](https://upload.wikimedia.org/wikipedia/commons/6/64/WhatsApp.svg)
+Feel free to join and be a part of our growing community! [JOin Here](https://whatsapp.com/channel/0029Vb5urw8K0IBbTQ8NH53b)
