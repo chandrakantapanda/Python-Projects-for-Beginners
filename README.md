@@ -3,8 +3,9 @@
 This repository contains a collection of simple Python projects designed for beginners. Each project is contained in a single Python file, allowing you to explore different concepts and functionalities in Python.
 
 ## Projects
-
+https://github.com/chandrakantapanda/Python-Projects-for-Beginners/blob/main/randompass.py
 - [Password Generator](randompass.py) - Generates a secure random password based on user-defined criteria.
+- [WeatherWatcher](WeatherWatcher) - This Python script fetches real-time weather for multiple cities.
 
 ## How to Run
 
