@@ -6,7 +6,7 @@ This repository contains a collection of simple Python projects designed for beg
 https://github.com/chandrakantapanda/Python-Projects-for-Beginners/blob/main/randompass.py
 - [Password Generator](randompass.py) - Generates a secure random password based on user-defined criteria.
 - [WeatherWatcher](WeatherWatcher) - This Python script fetches real-time weather for multiple cities.
-- [Python Turtle Draw a Smiley Face](https://github.com/chandrakantapanda//Python-Turtle-Draw-a-Smiley-Face) - This Python script Draw a Smiley Face.
+- [Python Turtle Draw a Smiley Face](https://github.com/chandrakantapanda/Python-Turtle-Draw-a-Smiley-Face) - This Python script Draw a Smiley Face.
 
 ## How to Run
 
